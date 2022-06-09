@@ -25,7 +25,7 @@ Web sau khi build đang được host ở [InfinityFree](https://app.infinityfre
 
 ### Domain name & SSL
 
-Team đã đăng ký tên miền hyphen.vn trên [iNET](inet.vn), sau đó trỏ DNS về server của InfinityFree để resolve tên miền thành công.
+Team đã đăng ký tên miền `hyphen.vn` trên [iNET](inet.vn), sau đó trỏ DNS về server của InfinityFree để resolve tên miền thành công.
 
 ![hyphen-dns](images/284667976_1037347673590280_7500411930208621377_n.png)
 
@@ -45,7 +45,7 @@ Hiện tại, source code đang được lưu trên máy của anh [Tùng (ĐV)]
 - Python code Flask app
 - Các ML models
 
-Để access vào máy chứa source code back-end, team đang sử dụng [AnyDesk](https://anydesk.com). Contact để nhận code.
+Để access vào máy chứa source code back-end, team đang sử dụng [AnyDesk](https://anydesk.com). _Contact để nhận code_.
 
 Source code (không bao gồm models) có thể được cập nhật lên [repo này](https://github.com/tranbaohieu/hyphen) _(private repo, contact để được add account)_.
 
