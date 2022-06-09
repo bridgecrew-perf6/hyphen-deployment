@@ -60,4 +60,4 @@ Hiện tại, Điệp hầu như inactive nên chưa thể custom hay thay đổ
 _Cần discuss thêm._
 
 - Trước mắt nên host Flask server ở 1 nơi và loại bỏ proxy.
-- Tự chủ tên miền.
+- Tự chủ tên miền (`hyphen.khoivn.tech`).
