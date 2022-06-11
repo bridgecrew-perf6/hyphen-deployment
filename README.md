@@ -42,7 +42,7 @@ Team đã đăng ký tên miền `hyphen.vn` trên [iNET](inet.vn), sau đó tr�
 
 Hiện tại, source code đang được lưu trên máy của anh [Tùng (ĐV)](https://www.facebook.com/100010047396090). Source code bao gồm:
 
-- Python code Flask app
+- Python code [Flask](https://flask.palletsprojects.com) app
 - Các ML models
 
 Để access vào máy chứa source code back-end, team đang sử dụng [AnyDesk](https://anydesk.com). _Contact để nhận code_.
